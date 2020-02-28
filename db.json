@@ -1,0 +1,28 @@
+{
+  "portfolio": [
+    {
+      "title": "Meu primeiro projeto",
+      "category": ["all", "frontend", "ux-ui"]
+    },
+    {
+      "title": "Meu segundo projeto",
+      "category": ["all", "mobile", "ux-ui"]
+    },
+    {
+      "title": "Meu terceiro projeto",
+      "category": ["all", "frontend"]
+    },
+    {
+      "title": "Meu quarto projeto",
+      "category": ["all", "frontend", "backend"]
+    },
+    {
+      "title": "Meu quinto projeto",
+      "category": ["all", "frontend", "backend", "mobile", "ux-ui"]
+    },
+    {
+      "title": "Meu sexto projeto *Others",
+      "category": ["all", "others"]
+    }
+  ]
+}
